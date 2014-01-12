@@ -20,7 +20,7 @@ sentence in a longer piece of text.
 *  `[api:SS_Datetime]`: A date / time field
 *  `[api:Text]`: A variable-length string of up to 2MB, designed to store raw text
 *  `[api:Time]`: A time field
-*  `[api:Varchar]`: A variable-length string of up to 255 characters, designed to store raw text
+*  `[api:Varchar]`: A variable-length string of up to 255 characters (default 50), designed to store raw text
 
 ## Casting arbitrary values
 
